@@ -33,12 +33,6 @@ kintone REST APIから取得した情報を元に、RJSFのフォームを動的
 - カスタムウィジェットの適用
 - 独自のバリデーションルールの追加と再利用性の向上
 
-## インストール
-
-```bash
-pnpm add k5e-fields-to-rjsf-schema
-```
-
 ## 使い方
 
 ### 事前準備
